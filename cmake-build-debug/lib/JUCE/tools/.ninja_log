@@ -1,0 +1,10 @@
+# ninja log v5
+1	39	0	/Users/djbartolini/dev/juce-cmake-boilerplate/cmake-build-debug/lib/JUCE/tools/CMakeFiles/cmake.verify_globs	ec416ebbaade59ae
+40	748	1715096932633747540	extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_data_structures/juce_data_structures.mm.o	ed8b05037e5b4b57
+39	1140	1715096933024812637	extras/Build/juceaide/CMakeFiles/juceaide.dir/__/juce_build_tools/juce_build_tools.cpp.o	3c85c3c13465f33f
+39	1176	1715096933063041006	extras/Build/juceaide/CMakeFiles/juceaide.dir/Main.cpp.o	21f2ca29fd80f71b
+40	1383	1715096933268406873	extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_events/juce_events.mm.o	fd42632c5160e2f
+40	2969	1715096934848227647	extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_core/juce_core.mm.o	6a8a4d62263eccd8
+39	3125	1715096935006126364	extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_graphics/juce_graphics.mm.o	18aad9267200851f
+39	9440	1715096941300709044	extras/Build/juceaide/CMakeFiles/juceaide.dir/__/__/__/modules/juce_gui_basics/juce_gui_basics.mm.o	68d3578255653dc9
+9441	9948	1715096941837705684	extras/Build/juceaide/juceaide_artefacts/Debug/juceaide	2efc9cbe486f178e
