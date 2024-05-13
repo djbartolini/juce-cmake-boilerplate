@@ -2,8 +2,6 @@
 .idea
 
 cmake-build-debug
-
-lib/examples
-lib/docs
+lib
 
 */DS_Store
